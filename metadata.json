@@ -1,0 +1,8 @@
+{
+  "name": "Card Wallet",
+  "description": "Digital card holder and wallet app for loyalty cards, IDs, passes, and documents with barcode generator, category folders, and search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
